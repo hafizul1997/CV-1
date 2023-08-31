@@ -1,0 +1,262 @@
+*{
+	margin:0;
+	padding:0
+	
+}
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+body{
+
+
+}
+
+.full_wrap{
+	width:100%;
+	
+}
+.fix{
+	overflow:hidden;
+	
+}
+.wrap{
+	
+	width:960px;
+	margin:0 auto;
+	display:block;
+	
+	
+}
+.header_b{
+	border-bottom:5px solid #293232;
+	background:#999393;
+}
+.header_bg{
+	background:#ddd;
+}
+.image{
+	width:480px;
+	float:left;
+}
+.iimage{
+	margin-left: 146px;
+    margin-top: 20px;
+}
+.img{
+float:left;	width:170px;
+margin-left:20px;
+}
+.profile_img{
+	width:150px;
+	height:150px;
+	border:3px solid #fff;
+	border-radius:50%;
+	
+}
+.title_name{
+	float:left;
+	width:300px;
+	margin-top:75px;
+	
+}
+.title_name h2{
+	color:##09355a;
+	font-family: 'Black Ops One', cursive;
+	font-weight:bold;
+	font-size:30px;
+
+}
+.title_name h4{
+	color:#6a0707;
+	font-family: 'Black Ops One', cursive;
+	font-weight:bold;
+	font-size:20px;
+
+}
+
+
+
+.my_address ul li a:hover{
+	color:red;
+}
+.content_bg{
+	
+	
+}
+.personal_content{
+	
+}
+.left_content{
+	background:#0F3344;
+	float:left;
+	box-sizing:border-box;
+	border-radius:10%;
+	height:1100px;
+}
+.left_content h4{
+	font-family: 'Black Ops One', cursive;
+	font-size:30px;
+	text-align:center;
+	padding-bottom:20px;
+	padding-top:20px;
+	
+	
+}
+.personal{
+	width:240px;
+	float:right;
+box-sizing:border-box;
+margin-top:10px;
+}
+	
+.personal_content{
+	width:240px;
+	float:left;
+	padding:10px;
+	box-sizing:border-box;
+	
+}
+.wrap_c{
+	margin-left:100px;
+	
+}
+.wrap_c p{
+	text-align:center;
+	font-family: 'Black Ops One', cursive;
+	font-size:16px;
+	color:#000;
+	text-align:right;
+	
+}
+.personal p{
+	
+	font-family: 'Black Ops One', cursive;
+	font-size:16px;
+	color:#000;
+	
+}
+
+.right_content{
+	width:480px;
+	float:right;
+	background:##ebd9d9;
+	height:1100px;
+	border:5px solid #0F3344;
+	box-sizing:border-box;
+	border-radius:10%;
+}
+.heading h4{
+	width: 480px;
+    margin-left: -20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.passport_content{
+	width:240px;
+	float:left;
+	box-sizing:border-box;
+}
+.left p{
+	margin-right: 9px;
+    text-align: right;
+	font-family: 'Black Ops One', cursive;
+	font-size:16px;
+}
+.right{
+	font-family: 'Black Ops One', cursive;
+	font-size:16px;
+	margin-left:20px;
+	
+}
+.education_p{
+	font-family: 'Black Ops One', cursive;
+	font-size:15px;
+	margin-right:5px;
+	text-align:right;
+	margin-top:-15px;
+	margin-left:0px;
+}
+.education_f{
+	font-family: 'Black Ops One', cursive;
+	font-size:15px;
+	font-weight:bold;
+	margin-top:-5px;
+}
+.language_li ul{
+	
+	
+}
+.language_li{
+	margin-left:200px;
+	padding:15px;
+}
+.language_li ul li{
+	list-style-type:none;
+	font-family: 'Black Ops One', cursive;
+	font-size:16px;
+	font-weight:bold;
+}
+.header h1{
+	color:#C71757;
+	font-family: 'Black Ops One', cursive;
+	font-weight:bold;
+	font-size:30px;
+	text-align:center;
+	margin-top:10px;
+	
+}
+.header h2{
+	color:#000000;
+	font-family: 'Black Ops One', cursive;
+	font-weight:bold;
+	font-size:20px;
+	text-align:center;
+	
+}
+.my_address{
+width:470px;
+margin-top:50px;
+}
+.my_address ul{
+	margin-left:40px;
+	
+}
+.my_address ul li{
+list-style-type:none;
+margin-top:5px;
+font-weight:bold;
+}
+h3{
+	margin-top:10px;
+	margin-left:10px;
+	color:#022848;
+	font-family: 'Black Ops One', cursive;
+}
+.profile{
+	margin-left:40px;
+	margin-top:5px;
+	font-family: 'Black Ops One', cursive;
+	text-align:justify;
+	margin-right:5px;
+}
+.workexperience ul li{
+	text-align: justify;
+    font-size: 15px;
+    font-weight: bold;
+	margin-top:5px;
+}
+.skill{
+	margin-left:0px;
+	
+}
+.applicant{
+	text-align:center;
+	margin-left:200px;
+	margin-top:20px;
+	
+}
+.bottom{
+	width: 216px;
+    margin-left: 6px;
+    border-bottom: 5px solid #283654;
+    margin-top: 11px;
+	
+}
