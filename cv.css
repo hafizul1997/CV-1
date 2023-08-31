@@ -97,6 +97,7 @@ margin-left:20px;
 	text-align:center;
 	padding-bottom:20px;
 	padding-top:20px;
+	color:white;
 	
 	
 }
@@ -148,7 +149,7 @@ margin-top:10px;
     margin-left: -20px;
     box-sizing: border-box;
     overflow: hidden;
-	color:#fff;
+	color:white;
 }
 .passport_content{
 	width:240px;
@@ -160,11 +161,13 @@ margin-top:10px;
     text-align: right;
 	font-family: 'Black Ops One', cursive;
 	font-size:16px;
+	color:white;
 }
 .right{
 	font-family: 'Black Ops One', cursive;
 	font-size:16px;
 	margin-left:20px;
+	color:white;
 	
 }
 .education_p{
@@ -174,12 +177,14 @@ margin-top:10px;
 	text-align:right;
 	margin-top:-15px;
 	margin-left:0px;
+	color:white;
 }
 .education_f{
 	font-family: 'Black Ops One', cursive;
 	font-size:15px;
 	font-weight:bold;
 	margin-top:-5px;
+	color:white;
 }
 .language_li ul{
 	
@@ -194,6 +199,7 @@ margin-top:10px;
 	font-family: 'Black Ops One', cursive;
 	font-size:16px;
 	font-weight:bold;
+	color:white;
 }
 .header h1{
 	color:#C71757;
